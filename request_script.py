@@ -3,7 +3,7 @@ import asyncio
 
 # Number of requests per JWT token
 TOTAL_REQUESTS = 1020
-
+#put in as much as you need here
 async def send_request(session, jwt_token, proxy):
     url = "https://api.app.superfortune.xyz/beat-villain/beat"
     headers = {
