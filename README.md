@@ -1,3 +1,3 @@
 # superfortun
 click assistance
-jwt.txt and proxy.txt
+create jwt.txt and proxy.txt
